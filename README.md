@@ -11,8 +11,16 @@
 
 ## Quickstart
 
+...
+
 ## Contributing
+
+Please check our wiki
 
 ## Questions or need help?
 
+Please open an issue
+
 ## Copyright and license
+
+...
