@@ -15,7 +15,7 @@
 
 ## Contributing
 
-Please check our wiki
+Please check our [wiki](https://github.com/rbagrov/net-pytest/wiki)
 
 ## Questions or need help?
 
